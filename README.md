@@ -1,8 +1,11 @@
 
-# first-python-project
-
 # 🧹 File Organizer Bot
 
+<<<<<<< HEAD
+# 🧹 File Organizer Bot
+
+=======
+>>>>>>> main
 A simple Python script to automatically organize files in a folder by type.
 
 ## 💡 Features
@@ -13,4 +16,7 @@ A simple Python script to automatically organize files in a folder by type.
 Just run:
 ```bash
 python organizer.py
+<<<<<<< HEAD
 
+=======
+>>>>>>> main
